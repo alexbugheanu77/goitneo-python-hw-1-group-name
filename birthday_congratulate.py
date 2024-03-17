@@ -1,4 +1,5 @@
-# Implement a function to display a list of colleagues you need to congratulate on their birthdays this week
+# Task 1. Implement a function to display a list of colleagues you need to congratulate on their birthdays this week
+
 from collections import defaultdict 
 from datetime import datetime
 
@@ -36,3 +37,7 @@ get_birthdays_per_week(users= [
     {"name": "Kim Kardashian", "birthday": datetime(1980, 10, 21)},
     {"name": "Jill Valentine", "birthday": datetime(1974, 11, 30)},
     {"name": "John Doe", "birthday": datetime(1990, 3, 12)}])
+
+
+
+
